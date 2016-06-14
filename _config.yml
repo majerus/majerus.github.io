@@ -111,10 +111,10 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/colby.png"
     date: "May 2015 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    description: "Colby College"
+  - image: "/img/timeline/tca.png"
+    date: "September 2010 - May 2016"
+    description: "Third Coast Analytics, VP Research"
 
 # First image of the Timeline
 
