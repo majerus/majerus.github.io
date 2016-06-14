@@ -110,10 +110,10 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/colby.png"
-    date: "May 2015 - Today"
+    date: "May `15 - Today"
     description: "Colby College"
   - image: "/img/timeline/tca.png"
-    date: "September 2010 - May 2016"
+    date: "Sept. `10 - May `16"
     description: "Third Coast Analytics, VP Research"
 
 # First image of the Timeline
@@ -124,7 +124,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "rich.majerus@gmail.com"
 
 ################
 # Author Blurb #
