@@ -111,7 +111,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/colby.png"
     date: "May `15 - Today"
-    description: "Colby College"
+    description: "Colby College <br /> Director Advancement Strategy & Analysis"
   - image: "/img/timeline/tca.png"
     date: "Sept. `10 - May `16"
     description: "Third Coast Analytics, <br /> VP Research"
