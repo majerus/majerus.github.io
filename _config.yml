@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Director of Advancement Strategy and Analysis, Colby College"
-  - text: "Where’s your will to be weird?"
+  - text: "Data Scientist - R/Shiny Developer - Higher Ed. Professional"
 
 me-img: "/img/majerus_rich_headshot.jpg"
 
@@ -109,8 +109,8 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
+  - image: "/img/timeline/Colby_logo_002878.png"
+    date: "May 2015 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
