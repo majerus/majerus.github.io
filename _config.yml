@@ -109,7 +109,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "http://www.colby.edu/news/wp-content/uploads/sites/17/2013/09/AB12_09941.jpg"
+  - image: "/img/timeline/colby.jpg"
     date: "May 2015 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
