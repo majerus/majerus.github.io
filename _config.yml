@@ -130,7 +130,11 @@ events:
   
 
 # First image of the Timeline
-# timeline-img: "/img/timeline/default.png"
+  timeline-img: "/img/timeline/carleton.jpeg"
+  date: "2003 - 2003"
+  description: "Carleton College, <br /> Undergrad - Sociology & Anthropology, Summa Cum Laude"
+  
+  # "/img/timeline/default.png"
 
 ###########
 # Contact #
