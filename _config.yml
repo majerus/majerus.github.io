@@ -112,7 +112,7 @@ events:
   - image: "/img/timeline/colby.png"
     date: "May `15 - Today"
     description: "Colby College <br /> Director Advancement Strategy & Analysis"
-  - image: "/img/timeline/reed.jpg"
+  - image: "/img/timeline/reed.jpeg"
     date: "2014 - 2015"
     description: "Reed College, <br /> Data Visualization Technologist"
   - image: "/img/timeline/tca.png"
