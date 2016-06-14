@@ -109,7 +109,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/Colby.jpeg"
+  - image: "/img/timeline/colby.jpeg"
     date: "May 2015 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
