@@ -33,13 +33,13 @@ author: "Rich Majerus"
 title: "{ Rich Majerus }"
 description: "Blog and website of Rich Majerus, Director of Advancement Strategy and Analysis at Colby College. Opinions expressed are mine."
 keywords: "rich majerus, colby college, advancement, jekyll, higher education"
-favicon: "/img/black-lab-glass.ico"
+favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon.ico"
 
 background-img: "../img/vertin.jpg"
 
