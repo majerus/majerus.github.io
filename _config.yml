@@ -114,7 +114,7 @@ events:
     description: "Colby College"
   - image: "/img/timeline/tca.png"
     date: "Sept. `10 - May `16"
-    description: "Third Coast Analytics, VP Research"
+    description: "Third Coast Analytics, <br /> VP Research"
 
 # First image of the Timeline
 
