@@ -31,7 +31,7 @@ force-https: False
 lang: "en"
 author: "Rich Majerus"
 title: "{ Rich Majerus }"
-description: "Blog and website of Rich Majerus, Director of Advancement Strategy and Analysis at Colby College. Opinions expressed are mine."
+description: "Website of Rich Majerus, Director of Advancement Strategy and Analysis at Colby College. Opinions expressed are mine."
 keywords: "rich majerus, colby college, advancement, jekyll, higher education"
 favicon: "/img/favicon.ico"
 
@@ -70,16 +70,16 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
+#icon-36p: "/img/web-app/icon-36p.png"
+#icon-48p: "/img/web-app/icon-48p.png"
+#icon-72p: "/img/web-app/icon-72p.png"
+#icon-96p: "/img/web-app/icon-96p.png"
+#icon-144p: "/img/web-app/icon-144p.png"
+#icon-192p: "/img/web-app/icon-192p.png"
 
 ########
 # Blog #
@@ -146,8 +146,8 @@ email: "rich.majerus@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+# author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+# author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
