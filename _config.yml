@@ -113,8 +113,14 @@ events:
     date: "May `15 - Today"
     description: "Colby College <br /> Director Advancement Strategy & Analysis"
   - image: "/img/timeline/tca.png"
+    date: "2014 - 2015"
+    description: "Reed College, <br /> Data Visualization Technologist"
+  - image: "/img/timeline/tca.png"
     date: "Sept. `10 - May `16"
     description: "Third Coast Analytics, <br /> VP Research"
+  - image: "/img/timeline/tca.png"
+    date: "2010 - 2012"
+    description: "Carleton College, <br /> Assistant Dean of Admissions"
 
 # First image of the Timeline
 
