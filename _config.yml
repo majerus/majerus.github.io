@@ -110,13 +110,13 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/colby.png"
-    date: "May `15 - Today"
+    date: "2015 - Today"
     description: "Colby College, <br /> Director Advancement Strategy & Analysis"
   - image: "/img/timeline/reed.jpeg"
     date: "2014 - 2015"
     description: "Reed College, <br /> Data Visualization Technologist"
   - image: "/img/timeline/tca.png"
-    date: "Sept. `10 - May `16"
+    date: "2010 - 2016"
     description: "Third Coast Analytics, <br /> VP Research"
   - image: "/img/timeline/carleton.jpeg"
     date: "2010 - 2012"
