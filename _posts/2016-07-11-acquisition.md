@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: TCA Acquisition
+title: Acquisition
 category: tech
 date: 2016-7-11
 tags: [ 'news' ]
