@@ -1,3 +1,12 @@
+---
+layout: post
+section-type: post
+title: TCA Acquisition
+category: tech
+date: 2016-7-11
+tags: [ 'news' ]
+---
+
 Capture Announces the Acquisition of Third Coast Analytics’ Intellectual Property for Financial Aid Optimization  
 
 New yield models offer individual student financial aid adjustments to reach enrollment targets  
