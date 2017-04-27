@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: NEDRA Presentation
 category: tech
-date: 2017-4-28
+date: 2017-04-28
 tags: [ 'presentations' ]
 ---
 
