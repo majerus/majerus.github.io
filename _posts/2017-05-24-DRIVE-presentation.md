@@ -3,17 +3,14 @@ layout: post
 section-type: post
 title: DRIVE Presentation
 category: tech
-date: 2017-05-24
+date: 2017-07-26
 tags: [ 'news' ]
 ---
 
-Open this post for a link to a public version of my DRIVE 2017 presentation...
+Open this post for a link to a public version of my APRA 2017 presentation...
 
 [Developing an Interactive Reporting and Prospect Research Tool using R/Shiny](
 http://slides.com/richmajerus/developing-an-interactive-reporting-and-prospect-research-tool-using-r-shiny-6)
-
-Wednesday, May 24, 2017
-10:00 AM – 10:50 AM
 
 Too many custom report requests? Disappointed with one-size fits all reporting solutions? Learn how to develop your own customized and interactive reporting solution for free using R and Shiny. Attendees will see a live demo of Colby College's custom built web-based advancement reporting system and will learn how to get started with R and Shiny. Colby's Prospect Finder system has automated the Advancement Division's reporting and provides an intuitive and user-friendly interface that encourages data-informed decision-making.
 
