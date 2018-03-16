@@ -31,7 +31,7 @@ force-https: False
 lang: "en"
 author: "Rich Majerus"
 title: "{ Rich Majerus }"
-description: "Website of Rich Majerus, Director of Advancement Strategy and Analysis at Colby College. Opinions expressed are mine."
+description: "Website of Rich Majerus, AVP of Advancement Strategy and Analysis at Colby College. Opinions expressed are mine."
 keywords: "rich majerus, colby college, advancement, jekyll, higher education"
 favicon: "/img/favicon.ico"
 
@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Director of Advancement Strategy and Analysis, Colby College"
+  - text: "AVP of Advancement Strategy and Donor Relations, Colby College"
   - text: "Data Scientist - R/Shiny Developer - Amateur Homesteader"
 
 me-img: "/img/bluish.jpg"
